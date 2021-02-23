@@ -17,6 +17,7 @@ namespace securing_applications_1
 {
     public class Startup
     {
+        //comment
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
